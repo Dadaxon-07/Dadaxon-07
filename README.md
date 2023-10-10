@@ -11,7 +11,9 @@
 <li> 📫 How to reach me: @Backend_pragramist  </li>
 
 <li> 👨‍💻 Most loved languages: C# and Pyhton  </li>
-----
+
+--------------
+
 
 
 ### Languages and Tools
