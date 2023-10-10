@@ -3,7 +3,7 @@
 
 <H3>I am Sharofiddinov Dadaxon</H3>
 
--------
+-
 ### Languages and Tools
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
