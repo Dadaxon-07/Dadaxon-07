@@ -6,11 +6,11 @@
 
 <li> 💻 Software Engineer</li>
 
-💬 Ask me about anything related to .NET 
+<li> 💬 Ask me about anything related to .NET </li>
 
-📫 How to reach me: @Backend_pragramist
+<li> 📫 How to reach me: @Backend_pragramist  </li>
 
-👨‍💻 Most loved languages: C# and Pyhton
+<li> 👨‍💻 Most loved languages: C# and Pyhton  </li>
 
 
 ### Languages and Tools
