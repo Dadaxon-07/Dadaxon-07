@@ -1,7 +1,7 @@
 ### Hi there 👋
-<br>
-I am Sharofiddinov Dadaxon 
-</br>
+
+<H4>I am Sharofiddinov Dadaxon</H4>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%7676CCF7&lines=Programming+languages)](https://git.io/typing-svg)
 
