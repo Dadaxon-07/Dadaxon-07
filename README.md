@@ -5,8 +5,11 @@
 
 
 💻 Software Engineer
+
 💬 Ask me about anything related to .NET 
+
 📫 How to reach me: @Backend_pragramist
+
 👨‍💻 Most loved languages: C# and Pyhton
 
 
