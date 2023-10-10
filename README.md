@@ -4,7 +4,7 @@
 <H3>I am Sharofiddinov Dadaxon</H3>
 
 
-💻 Software Engineer
+<li> 💻 Software Engineer</li>
 
 💬 Ask me about anything related to .NET 
 
