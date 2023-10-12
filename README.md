@@ -8,7 +8,7 @@
 
 <li> 💬 Ask me about anything related to .NET </li>
 
-<li> 📫 How to reach me: @Backend_pragramist  </li>
+<li> 📫 How to reach me:Telegram @Backend_pragramist  </li>
 
 <li> 👨‍💻 Most loved languages: C# and Pyhton  </li>
 
