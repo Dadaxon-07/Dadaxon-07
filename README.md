@@ -29,7 +29,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/_pragramist?igshid=OGQ5ZDc2ODk2ZA==)
 
 ## 🏆 GitHub Trophies
-![](https://img.shields.io/github/stars/yousseflasheen?style=for-the-badge)
+<a href="https://stackoverflow.com/users/10240634/youssef-lasheen"><img src="https://stackoverflow.com/users/flair/10240634.png" width="208" height="58"></a>
+
 
 
 
