@@ -28,8 +28,10 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@backend_dasturchi_)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/_pragramist?igshid=OGQ5ZDc2ODk2ZA==)
 
-## 🏆 GitHub Trophies
-<a href="https://stackoverflow.com/users/10240634/youssef-lasheen"><img src="https://stackoverflow.com/users/flair/10240634.png" width="208" height="58"></a>
+## 🏆 GitHub Trophies<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
+ <img src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
+</a>
+
 
 
 
