@@ -28,7 +28,7 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@backend_dasturchi_)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/_pragramist?igshid=OGQ5ZDc2ODk2ZA==)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragramist-07&show_icons=true&theme=dracula)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pragramist-07&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
