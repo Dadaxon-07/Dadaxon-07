@@ -29,10 +29,11 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/_pragramist?igshid=OGQ5ZDc2ODk2ZA==)
 
 ## 🏆 GitHub Trophies<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
- <img src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
-</a>
+
+
               - name: generate-snake-game-from-github-contribution-grid
                 uses: Platane/snk@v3.0.0
+            
             
 
 
