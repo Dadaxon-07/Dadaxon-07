@@ -28,14 +28,12 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@backend_dasturchi_)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/_pragramist?igshid=OGQ5ZDc2ODk2ZA==)
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pragramist-07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pragramist-07&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pragramist-07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
