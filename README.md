@@ -30,7 +30,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragramist-07&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragramist-07)](https://github.com/pragramist-07/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsapanahpoor&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+![](https://github-profile-trophy.vercel.app/?username=parsapanahpoor&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 
 
