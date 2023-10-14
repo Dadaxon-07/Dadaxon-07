@@ -30,7 +30,7 @@
 
 ## 🏆 GitHub Trophies<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=pragramist-07&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-pragramist-07.vercel.app/?username=pragramist-07&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 
