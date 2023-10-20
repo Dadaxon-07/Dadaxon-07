@@ -43,6 +43,8 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=pragramist-07&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragramist-07&theme=synthwave “Andres’ Top Languages Card”)
+
 
 
 
