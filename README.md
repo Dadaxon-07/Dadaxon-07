@@ -8,7 +8,6 @@
 
 <H3>I am Sharofiddinov Dadaxon 👨‍💻 </H3>
 
-
 <li> 💻 Software Engineer</li>
 
 <li> 💬 Ask me about anything related to .NET </li>
