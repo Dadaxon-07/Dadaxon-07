@@ -46,5 +46,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragramist-07&layout=compact&theme=cobalt&hide_border=true" />
 
-<img src="https://img.shields.io/github/languages/code-size/taimoorsattar7/underlinejobs" alt="GitHub Code Size in Bytes">
+
 
