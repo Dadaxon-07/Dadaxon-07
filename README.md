@@ -1,10 +1,6 @@
 ![icons8-dart](https://github.com/pragramist-07/pragramist-07/assets/122969603/457f349c-0478-404d-ae21-a5277b6dc72e)
 
-
 <H1> Hi there 👋</H1>
-
-
-
 
 <H3>I am Sharofiddinov Dadaxon 👨‍💻 </H3>
 
@@ -16,14 +12,12 @@
 
 <li> 👨‍💻 Most loved languages: C# and Pyhton </li>
 
-
-
-
 <H1>Languages and Tools</H1>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
 ![icons8-dart](https://github.com/pragramist-07/pragramist-07/assets/122969603/457f349c-0478-404d-ae21-a5277b6dc72e)
 
 
