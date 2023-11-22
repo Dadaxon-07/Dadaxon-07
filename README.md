@@ -25,7 +25,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img2.freepng.ru/20180728/rrq/kisspng-dart-logo-programming-language-computer-programmin-python-stickers-5b5cab4fa0e594.4252391015327998236591.jpg
+
+<img src="https://img2.freepng.ru/20180728/rrq/kisspng-dart-logo-programming-language-computer-programmin-python-stickers-5b5cab4fa0e594.4252391015327998236591.jpg" />
 <H1>Databases</H1>
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
