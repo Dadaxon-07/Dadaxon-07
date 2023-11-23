@@ -10,7 +10,7 @@
 
 <li> 📫 How to reach me:Telegram @Backend_pragramist  </li>
 
-<li> 👨‍💻 Most loved languages: C# and Pyhton </li>
+<li> 👨‍💻 Most loved languages: C# and Pyhton , Dart </li>
 
 <H1>Languages and Tools</H1>
 
