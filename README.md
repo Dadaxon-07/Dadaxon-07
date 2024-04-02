@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
-![icons8-dart](https://github.com/pragramist-07/pragramist-07/assets/122969603/457f349c-0478-404d-ae21-a5277b6dc72e)
+![icons8-dart](https://github.com/Dadaxon-07/Dadaxon-07/assets/122969603/457f349c-0478-404d-ae21-a5277b6dc72e)
 
 <H1>Databases</H1>
 <p>
@@ -32,9 +32,9 @@
 
 ## 🏆 GitHub Trophies<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
 <a href="https://github.com/pragramist-07">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=pragramist-07&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Dadaxon-07&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragramist-07&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadaxon-07&layout=compact&theme=cobalt&hide_border=true" />
