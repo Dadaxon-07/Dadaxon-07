@@ -31,7 +31,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/_pragramist?igshid=OGQ5ZDc2ODk2ZA==)
 
 ## 🏆 GitHub Trophies<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
-<a href="https://github.com/pragramist-07">
+<a href="https://github.com/Dadaxon-07">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Dadaxon-07&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
