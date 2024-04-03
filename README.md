@@ -4,9 +4,9 @@
 
 <li> 💻 Software Engineer</li>
 
-<li> 💬 Ask me about anything related to .NET </li>
+<li> 💬 Ask me about anything related to .NET and flutter </li>
 
-<li> 📫 How to reach me:Telegram @User_name_o7 </li>
+<li> 📫 How to reach me : Telegram @User_name_o7 </li>
 
 <li> 👨‍💻 Most loved languages: C# and Pyhton, Dart </li>
 
