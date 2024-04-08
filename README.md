@@ -14,7 +14,8 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
-[image](https://github.com/Dadaxon-07/Dadaxon-07/assets/122969603/66b6c08f-e8c8-4e17-ae12-65c291ecb6bb)
+![image](https://github.com/Dadaxon-07/Dadaxon-07/assets/122969603/802deae2-8bd7-4414-b27e-20feb542a658)
+
 
 
 <H1>Databases</H1>
