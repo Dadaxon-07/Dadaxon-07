@@ -1,6 +1,6 @@
 <H1> Hi there 👋</H1>
 
-<H3>I am Sharofiddinov Dadaxon 👨‍💻</H3>
+<H3>I am Sharofiddinov Dadaxon 👨‍💻</H3> 
 
 <li> 💻 Software Engineer</li>
 
