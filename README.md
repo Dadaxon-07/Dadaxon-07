@@ -8,7 +8,7 @@
 
 <li> 📫 How to reach me : Telegram @User_name_oo7 </li>
 
-<li> 👨‍💻 Most loved languages: C# and Pyhton, Dart </li>
+<li> 👨‍💻 Most loved languages: C# and Pyhton, Dart</li>
 
 <H1>Languages and Tools</H1>
 
