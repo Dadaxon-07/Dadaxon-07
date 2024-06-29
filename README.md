@@ -38,6 +38,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadaxon-07&layout=compact&theme=cobalt&hide_border=true" />
 
 
-
-          - name: generate-snake-game-from-github-contribution-grid
-            uses: Platane/snk@v3.2.0
