@@ -1,7 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]([https://dadaxon-07.io](https://dadaxon-07.io))
 
-![image](https://github.com/Dadaxon-07/Dadaxon-07/assets/122969603/52b97aef-e7a2-4af7-b476-88291a31260a)
-
 <H1> Hi there 👋</H1>
 
 
