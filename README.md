@@ -37,5 +37,6 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Dadaxon-07&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadaxon-07&layout=compact&theme=cobalt&hide_border=true" />    <img align="left" src="https://leetcode.card.workers.dev/906675310?theme=dark&font=baloo&extension=null" alt="LeetCode" height="200" width="360" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadaxon-07&layout=compact&theme=cobalt&hide_border=true" />
+
 
