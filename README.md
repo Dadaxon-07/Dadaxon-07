@@ -16,6 +16,7 @@
 <H1>Languages and Tools</H1>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
 <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" viewBox="0 0 24 24" id="flutter">
   <polygon fill="#0D47A1" points="11.536 21.231 14.305 24 21.695 24 15.232 17.537 11.536 21.231"></polygon>
   <polygon fill="#42A5F5" points="7.849 17.538 11.539 13.848 15.229 17.538 11.539 21.229 7.849 17.538"></polygon>
@@ -25,8 +26,6 @@
   <path fill="#68B7F7" d="M21.695,11.073h-7.391l-2.768,2.768l3.694,3.694h0.002L21.695,11.073L21.695,11.073z M21.695,0h-7.391l-12,11.999L6,15.695L21.695,0L21.695,0z"></path>
   <path fill="#5B9FD7" d="M20.844,11.073h-6.539l-2.768,2.768l3.694,3.694h0.002l5.611-5.611V11.073L20.844,11.073z M15.695,6H8.304l-5.999,5.999L6,15.695L15.695,6L15.695,6z"></path>
 </svg>
-
-
 
 
 <H1>Databases</H1>
