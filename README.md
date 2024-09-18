@@ -20,7 +20,7 @@
 
 # Tools
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
- ![AndoidStudio](https://img.shields.io/badge/androidstudio-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![AndoidStudio](https://img.shields.io/badge/androidstudio-%23F05033.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 <H1>Databases</H1>
 <p>
