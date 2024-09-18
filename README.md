@@ -22,10 +22,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)![VNC Viewer](https://img.shields.io/badge/VNC%20Viewer-%2300599C.svg?style=for-the-badge&logo=VNC-Viewer&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-00C7B7.svg?style=for-the-badge&logo=tailscale&logoColor=white)
-![Solar-PuTTY](https://img.shields.io/badge/Solar--PuTTY-%23007ACC.svg?style=for-the-badge&logo=data:image/svg+xml;base64,[Base64String]&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=data:image/svg+xml;base64,[Base64String]&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D7.svg?style=for-the-badge&logo=data:image/svg+xml;base64,[Base64String]&logoColor=white)
+
 
 <H1>Databases</H1>
 <p>
