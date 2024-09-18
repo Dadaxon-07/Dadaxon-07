@@ -16,7 +16,7 @@
 <H1>Languages and Tools</H1>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-![image](https://github.com/user-attachments/assets/e8790d65-5cee-4a9f-a270-abaea5d15e3f)
+ ![icons8-dart](https://github.com/Dadaxon-07/Dadaxon-07/assets/122969603/457f349c-0478-404d-ae21-a5277b6dc72e)
 
 
 <H1>Databases</H1>
