@@ -16,6 +16,7 @@
 <H1>Languages and Tools</H1>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+![image](https://github.com/user-attachments/assets/8f23ef68-9f8b-4aa3-bab4-ec913be28ee7)
 
 
 
