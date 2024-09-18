@@ -13,12 +13,14 @@
 
 <li> 👨‍💻 Most loved languages: C# and Pyhton, Dart</li>
 
-<H1>Languages and Tools</H1>
+<H1>Languages</H1>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
- ![icons8-dart](https://github.com/Dadaxon-07/Dadaxon-07/assets/122969603/457f349c-0478-404d-ae21-a5277b6dc72e)  ![image](https://github.com/user-attachments/assets/4a3a3333-0c56-48bc-9a42-fbbfcc52ff6a)
+ ![icons8-dart](https://github.com/Dadaxon-07/Dadaxon-07/assets/122969603/457f349c-0478-404d-ae21-a5277b6dc72e)
 
+<H1>Tools</H1>
 
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <H1>Databases</H1>
 <p>
