@@ -40,7 +40,3 @@
 </a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadaxon-07&layout=compact&theme=cobalt&hide_border=true" />
-
-![github-contribution-grid-snake-dark](https://github.com/StaticTesseract07/StaticTesseract07/assets/122696470/41aff6b0-bc71-45f3-8478-ff6a55043f60)
-<h1 align="center">
-
