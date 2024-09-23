@@ -36,4 +36,4 @@
 
 ## 🏆 GitHub Trophies<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
 <a href="https://github.com/Dadaxon-07">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Dadaxon-07&column=8&theme=gruvbox&no-frame=true"/> </a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadaxon-07&layout=compact&theme=cobalt&hide_border=true" /> <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Dadaxon-07&theme=ayu-mirage" alt="GitHub Streak" /> </a>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Dadaxon-07&column=8&theme=gruvbox&no-frame=true"/> </a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadaxon-07&layout=compact&theme=cobalt&hide_border=true" />
