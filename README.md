@@ -15,9 +15,7 @@
 
 <H1>Languages</H1>
 
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-![Dart](https://img.shields.io/badge/Dart-%2302569B.svg?style=for-the-badge&logo=Dart&logoColor=white)
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> ![Dart](https://img.shields.io/badge/Dart-%2302569B.svg?style=for-the-badge&logo=Dart&logoColor=white)
 
 # Tools
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![FIREBASE](https://img.shields.io/badge/firebase-%23F05033.svg?style=for-the-badge&logo=firebase&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
