@@ -25,6 +25,7 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
   ![FIREBASE](https://img.shields.io/badge/firebase-%23F05033.svg?style=for-the-badge&logo=firebase&logoColor=white)
 </p>
 
