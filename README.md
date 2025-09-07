@@ -5,7 +5,7 @@
 
 <H3>I am Sharofiddinov Dadaxon 👨‍💻</H3> 
 
-<li> 💻 Android and Backend developer </li>
+<li> 💻 Flutter and Backend developer </li>
 
 <li> 💬 Ask me about anything related to .NET and Flutter </li>
 
